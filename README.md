@@ -13,10 +13,10 @@ I graduated as a Computer Systems Engineer (*Ingeniero Informático en Sistemas 
 
 ## Tech stack
 
-**Languages:** Python · Java · SQL · TypeScript
-**AI & scientific computing:** NumPy · Qiskit · Jupyter
-**Back end & data:** FastAPI · MySQL / MariaDB
-**Front end:** Angular
+- **Languages:** Python · Java · SQL · TypeScript
+- **AI & scientific computing:** Jupyter · Qiskit · NumPy · Pandas
+- **Back end & data:** FastAPI · MySQL / MariaDB / ORACLE
+- **Front end:** Angular
 
 ## Get in touch
 
