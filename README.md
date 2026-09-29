@@ -23,7 +23,8 @@ I graduated as a Computer Systems Engineer (*Ingeniero Informático en Sistemas 
 - 💼 LinkedIn: www.linkedin.com/in/javier-salvatierra-corchado-656036270
 - ✉️ Email: jsacorchado@gmail.com
 
----
+*Always learning, always optimizing.* 
 
-*Always learning, always optimizing.*  
-👇 Some of my projects below
+---  
+
+👇 **Some of my projects below!**
